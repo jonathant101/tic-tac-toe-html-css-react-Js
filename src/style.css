@@ -1,0 +1,43 @@
+.central {
+  margin-left: 12rem;
+  background-color: black;
+  width: 500px;
+  position: relative;
+  display: grid;
+  grid-template-columns: 170px 170px 170px;
+}
+
+.child {
+  background-color: white;
+  height: 160px;
+
+  width: 160px;
+  margin-bottom: 11px;
+}
+.child7 {
+  background-color: white;
+
+  width: 160px;
+}
+.child8 {
+  background-color: white;
+
+  width: 160px;
+}
+.child9 {
+  background-color: white;
+  height: 160px;
+  width: 160px;
+}
+
+span {
+  margin-top: 12px;
+  margin-left: 40px;
+  position: absolute;
+  font-size: 120px;
+}
+
+h1 {
+  margin-left: 13rem;
+  font-size: 120px;
+}
